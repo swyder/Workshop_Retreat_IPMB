@@ -18,7 +18,7 @@ reproducible research principles and discuss some examples how you can improve y
   
     
 [Introduction | Tips](Best_Practises_Computers_SW.pdf) (Stefan)    
-[Demos]() (Önder)
+[Tools (Jupyter Notebooks, Snakemake, git)](2017-09-21_vitznau_workshop-reproducible.pdf) (Önder)
   
   
 ## Interesting links
